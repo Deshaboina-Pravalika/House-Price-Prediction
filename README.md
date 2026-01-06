@@ -4,5 +4,7 @@ House Price Prediction is a system that uses machine learning techniques to esti
 
 
 
+
+
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/7931ae35-3724-48fc-aba3-08cdcdb33c6f" />
 
